@@ -8,6 +8,7 @@ public class GitClass {
 		System.out.println("Just show something other!!");
 		System.out.println("Test commit");
 		System.out.println("Test pull");
+		System.out.println("Test pull again");
 	}
 
 }
