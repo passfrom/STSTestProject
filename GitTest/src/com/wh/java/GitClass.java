@@ -6,6 +6,7 @@ public class GitClass {
 		// TODO Auto-generated method stub
 		System.out.println("Just show something!!");
 		System.out.println("Just show something other!!");
+		System.out.println("Test commit");
 	}
 
 }
